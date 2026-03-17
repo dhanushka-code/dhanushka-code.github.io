@@ -22,10 +22,5 @@ export default function Home() {
         </ul>
       </div>
     </section>
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
-  );
-}
+    );
+  }
